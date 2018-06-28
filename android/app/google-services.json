@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "529977907777",
+    "firebase_url": "https://fir-forflutter.firebaseio.com",
+    "project_id": "fir-forflutter",
+    "storage_bucket": "fir-forflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529977907777:android:d03f9ee889629c9c",
+        "android_client_info": {
+          "package_name": "com.giuseppedigiorno.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529977907777-bcit86qhn5o9bgbg88l175mm5mc1tlkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXF3d0ed7hjCvNBsAl-n4Xuyvz8zZNdrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
